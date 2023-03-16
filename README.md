@@ -23,7 +23,8 @@
 Примеры:
 
 ```
-python display_code.py my_code.py bytecode python display_code.py my_code.py json
+python translate.py my_code.py bytecode 
+python translate.py my_code.py json
 ```
 
 
